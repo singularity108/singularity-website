@@ -27,4 +27,4 @@ En Omniversa Store, nuestro compromiso es proveerte productos de alta calidad y 
 
 - *Nos reservamos el derecho de rechazar reclamaciones que sean recurrentes/repetitivas o intentos de abuso de los términos de garantía.*
 
-Para hacer efectiva tu garantía debes registrar tu reclamación y evidenciar tu situación dentro de los plazos estipulados. Si reconocemos como válida tu reclamación de acuerdo a nuestras políticas, puedes solicitar un cambio o un reembolso de tu compra. Para ver información detallada acerca del procedimiento a seguir para solicitar un cambio o reembolso, la puedes encontrar en nuestra [Política de cambios y reembolsos](https://omniversa.store/legal/returns-and-refunds).
+Para hacer efectiva tu garantía debes registrar tu reclamación y evidenciar tu situación dentro de los plazos estipulados. Si reconocemos como válida tu reclamación de acuerdo a nuestras políticas, puedes solicitar un cambio o un reembolso de tu compra. Para ver información detallada acerca del procedimiento a seguir para solicitar un cambio o reembolso, la puedes encontrar en nuestra [Política de cambios y reembolsos](https://omniversa.store/legal/returns_and_refunds).
