@@ -1,5 +1,5 @@
 # Política de Envíos y Entregas
-*Esta política aplica para tus compras en oferta con envío gratis y pago contraentrega.*
+*Esta política aplica para tus compras en oferta con pago contraentrega.*
 
 En Omniversa Store nos esforzamos por brindarte un envío rápido y confiable.
 

@@ -1,5 +1,5 @@
 # Política de Cambios y Reembolsos
-*Esta política aplica para tus compras en oferta con envío gratis y pago contraentrega.*
+*Esta política aplica para tus compras en oferta con pago contraentrega.*
 
 Para solicitar un cambio o reembolso, tu situación debe estar bajo los términos de nuestra [Política de Garantía](https://omniversa.store/legal/warranty) y nosotros reconocer tu reclamación como válida.
 
@@ -78,6 +78,6 @@ Algunos artículos no son retornables, es decir que no puedes solicitar el cambi
 
 **Causales de rechazo adicionales:**
 
-- Reclamación mal diligenciada, evidencia poco clara o historia no congruente: En algunos casos, la falta de comprobación adecuada, uso de datos que no corresponden a la compra efectuada o explicaciones incongruentes del caso (contradicciones en la narración de los hechos, etc.) puede dificultar o hasta llegar a impedir la validez de una reclamación. Para evitar malentendidos por favor diligencia tu reclamación con toda la información y detalles necesarios.
+- Reclamación mal diligenciada, evidencia poco clara o historia no congruente: En algunos casos, la falta de comprobación adecuada, uso de datos que no corresponden a la compra efectuada o explicaciones incongruentes del caso (contradicciones en la narración de los hechos, etc.) puede dificultar o hasta llegar a impedir la validez de una reclamación. Para evitar malentendidos por favor diligencia tu reclamación de forma completa con la totalidad de la información y detalles necesarios. _No se aceptan cambios narrativos posteriores a la realización de la reclamación._
 
 - El cliente desiste de la reclamación sin aviso: Si una reclamación es registrada y nuestro equipo necesita información adicional para su comprobación, pero dicha información no es proporcionada, disponemos de un tiempo límite que podemos esperar para terminar de procesarla. Generalmente este tiempo límite máximo serán 5 días adicionales a la finalización del plazo aplicable de la garantía.
