@@ -1,4 +1,4 @@
-import{c as e,j as o,R as a}from"./Layout-CwGfZF_V.js";import{M as n}from"./MarkdownPage-B0SSDaNM.js";import"./Footer-CvzC9H07.js";const i=`# Política de Tratamiento de Datos
+import{c as e,j as o,R as a}from"./Layout-CvQqKsSN.js";import{M as n}from"./MarkdownPage-D3BCwG8E.js";import"./Footer-0_q7x1M9.js";const i=`# Política de Tratamiento de Datos
 
 En Omniversa Store nos comprometemos a proteger la privacidad y la información personal de todos nuestros clientes. Aquí se describe cómo recolectamos, utilizamos y protegemos tu información personal.
 
