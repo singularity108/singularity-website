@@ -1,7 +1,23 @@
 User-agent: *
 Disallow: /
 
-# Certain social media sites are whitelisted to allow crawlers to access page markup when links to /images are shared. 
+## Meta/Facebook External Hit BEGIN (taken from https://developers.facebook.com/docs/sharing/webmasters/web-crawlers#identify)
+User-agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: facebookexternalhit/1.1
+Allow: /
+
+User-agent: facebookcatalog/1.0
+Allow: /
+
+## Meta/Facebook External Hit END
+
+# Certain social media sites are whitelisted to allow crawlers to access page markup when links to /images are shared.
+
 User-agent: facebookexternalhit
 Allow: /
 
