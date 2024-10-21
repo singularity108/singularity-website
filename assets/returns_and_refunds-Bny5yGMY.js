@@ -1,4 +1,4 @@
-import{c as a,j as e,R as o}from"./Layout-CvQqKsSN.js";import{M as n}from"./MarkdownPage-D3BCwG8E.js";import"./Footer-0_q7x1M9.js";const r=`# Política de Cambios y Reembolsos
+import{c as a,j as e,R as o}from"./Layout-CG9VyyXO.js";import{M as n}from"./MarkdownPage-Zlnf7EZP.js";import"./Footer-ow7ke6vp.js";const r=`# Política de Cambios y Reembolsos
 *Esta política aplica para tus compras en oferta con pago contraentrega.*
 
 Para solicitar un cambio o reembolso, tu situación debe estar bajo los términos de nuestra [Política de Garantía](https://omniversa.store/legal/warranty) y nosotros reconocer tu reclamación como válida.

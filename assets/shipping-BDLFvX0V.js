@@ -1,4 +1,4 @@
-import{c as a,j as e,R as o}from"./Layout-CvQqKsSN.js";import{M as n}from"./MarkdownPage-D3BCwG8E.js";import"./Footer-0_q7x1M9.js";const s=`# Política de Envíos y Entregas
+import{c as a,j as e,R as o}from"./Layout-CG9VyyXO.js";import{M as n}from"./MarkdownPage-Zlnf7EZP.js";import"./Footer-ow7ke6vp.js";const s=`# Política de Envíos y Entregas
 *Esta política aplica para tus compras en oferta con pago contraentrega.*
 
 En Omniversa Store nos esforzamos por brindarte un envío rápido y confiable.
