@@ -1,4 +1,4 @@
-import{c as a,j as e,R as o}from"./Layout-CG9VyyXO.js";import{M as r}from"./MarkdownPage-Zlnf7EZP.js";import"./Footer-ow7ke6vp.js";const s=`# Política de Garantía (general)
+import{c as a,j as e,R as o}from"./Layout-CpqDvihT.js";import{M as r}from"./MarkdownPage-imrR817E.js";import"./Footer-BjeoX5zq.js";const s=`# Política de Garantía (general)
 *Esta política aplica para tus compras en oferta con pago contraentrega.*
 
 En Omniversa Store, nuestro compromiso es proveerte productos de alta calidad y una experiencia de compra excepcional. Nuestra garantía está diseñada para asegurar tu satisfacción y tranquilidad al adquirir productos en nuestra tienda online desde la comodidad de tu hogar. A menos de que se especifiquen plazos o términos diferentes en las ofertas específicas listadas para ciertos productos online, aplicará la siguiente garantía general:
